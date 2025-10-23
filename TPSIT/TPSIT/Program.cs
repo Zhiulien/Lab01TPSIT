@@ -10,6 +10,15 @@ namespace TPSIT
     {
         static void Main(string[] args)
         {
+
         }
+    }
+    class Veicolo
+    {
+
+    }
+    class Auto : Veicolo
+    {
+
     }
 }
