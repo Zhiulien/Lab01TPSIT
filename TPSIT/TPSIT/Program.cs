@@ -21,4 +21,8 @@ namespace TPSIT
     {
 
     }
+    class Moto : Veicolo
+    {
+
+    }
 }
