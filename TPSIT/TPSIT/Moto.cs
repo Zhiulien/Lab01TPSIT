@@ -13,4 +13,13 @@ class Moto:Veicolo
         this.cilindrata = cilindrata;
     }
 
+
+
+
+
+
+
+
+
+
 }
