@@ -1,4 +1,6 @@
-class Moto:veicolo
+
+using System;
+class Moto:Veicolo
 {
     
 }
