@@ -13,16 +13,6 @@ namespace TPSIT
 
         }
     }
-    class Veicolo
-    {
-
-    }
-    class Auto : Veicolo
-    {
-
-    }
-    class Moto : Veicolo
-    {
-
-    }
+    
+   
 }
